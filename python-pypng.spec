@@ -23,7 +23,7 @@ PNG module for Python. PyPNG is written entirely in Python.
 %install
 %py_install
 
-find %{buildroot} -name '__pycache__' -typye d -exec rm -fr '{}' \;
+find %{buildroot} -name '__pycache__' -type d -exec rm -fr '{}' \;
 
 %files
 %license LICENCE
