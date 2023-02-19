@@ -24,7 +24,7 @@ PNG module for Python. PyPNG is written entirely in Python.
 %py_install
 
 %files
-%license LICENSE
+%license LICENCE
 %doc README.md
 %{_bindir}/*
 %{py_puresitedir}/png.py
