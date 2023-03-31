@@ -1,6 +1,6 @@
 Name:		python-pypng
 Version:	0.20220715.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pypng/pypng-%{version}.tar.gz
 Summary:	Pure Python library for PNG image encoding/decoding
 URL:		https://pypi.org/project/pypng/
